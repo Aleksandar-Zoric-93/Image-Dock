@@ -1,0 +1,17 @@
+C:\WorkingOn\ImageDock\ImageDock\ImageDock\bin\Debug\ImageDock.exe.config
+C:\WorkingOn\ImageDock\ImageDock\ImageDock\bin\Debug\ImageDock.exe
+C:\WorkingOn\ImageDock\ImageDock\ImageDock\bin\Debug\ImageDock.pdb
+C:\WorkingOn\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.csprojResolveAssemblyReference.cache
+C:\WorkingOn\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.mainFrm.resources
+C:\WorkingOn\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.Properties.Resources.resources
+C:\WorkingOn\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.csproj.GenerateResource.Cache
+C:\WorkingOn\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.exe
+C:\WorkingOn\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.pdb
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\bin\Debug\ImageDock.exe.config
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.exe
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.pdb
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\bin\Debug\ImageDock.exe
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\bin\Debug\ImageDock.pdb
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.mainFrm.resources
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.Properties.Resources.resources
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.csproj.GenerateResource.Cache
