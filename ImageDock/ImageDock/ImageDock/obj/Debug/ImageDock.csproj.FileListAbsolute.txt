@@ -7,11 +7,16 @@ C:\WorkingOn\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.Properties.Resour
 C:\WorkingOn\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.csproj.GenerateResource.Cache
 C:\WorkingOn\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.exe
 C:\WorkingOn\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.pdb
-C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\bin\Debug\ImageDock.exe.config
-C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.exe
-C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.pdb
-C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\bin\Debug\ImageDock.exe
-C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\bin\Debug\ImageDock.pdb
 C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.mainFrm.resources
 C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.Properties.Resources.resources
 C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\ImageDock.csproj.GenerateResource.Cache
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\bin\Debug\Image Dock.exe.config
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\bin\Debug\Image Dock.exe.manifest
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\bin\Debug\Image Dock.application
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\bin\Debug\Image Dock.exe
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\bin\Debug\Image Dock.pdb
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\Image Dock.TrustInfo.xml
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\Image Dock.exe.manifest
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\Image Dock.application
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\Image Dock.exe
+C:\WorkingOn\image-dock\ImageDock\ImageDock\ImageDock\obj\Debug\Image Dock.pdb
